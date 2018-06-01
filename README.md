@@ -1,2 +1,2 @@
 # driver-page
-a simple demo for weixin spa
+a simple demo for weapp 
