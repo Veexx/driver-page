@@ -1,2 +1,2 @@
 # driver-page
-a simple demo for weapp 
+a simple demo for spa 
